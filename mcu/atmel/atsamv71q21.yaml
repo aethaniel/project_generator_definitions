@@ -1,0 +1,12 @@
+mcu:
+    vendor:
+        - atmel
+    name:
+        - atsamv71q21
+    core:
+        - cortex-m7
+tool_specific:
+    gcc:
+    iar:
+    uvision:
+    atmel_studio:

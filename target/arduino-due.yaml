@@ -1,0 +1,5 @@
+target:
+    name:
+        - Arduino Due
+    mcu:
+        - mcu/atmel/atsam3x8e

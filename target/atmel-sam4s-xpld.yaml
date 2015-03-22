@@ -1,0 +1,5 @@
+target:
+    name:
+        - Atmel SAM4S-Xplained
+    mcu:
+        - mcu/atmel/atsam4s16c

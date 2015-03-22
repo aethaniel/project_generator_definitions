@@ -1,0 +1,12 @@
+mcu:
+    vendor:
+        - atmel
+    name:
+        - atsam4s16c
+    core:
+        - cortex-m4
+tool_specific:
+    gcc:
+    iar:
+    uvision:
+    atmel_studio:

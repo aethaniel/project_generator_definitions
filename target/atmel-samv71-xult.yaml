@@ -1,0 +1,5 @@
+target:
+    name:
+        - Atmel SAMV71-Xplained Ultra
+    mcu:
+        - mcu/atmel/atsamv71q21

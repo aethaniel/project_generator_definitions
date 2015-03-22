@@ -1,0 +1,12 @@
+mcu:
+    vendor:
+        - atmel
+    name:
+        - atsam3x8e
+    core:
+        - cortex-m3
+tool_specific:
+    gcc:
+    iar:
+    uvision:
+    atmel_studio:
